@@ -1,0 +1,60 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<style> 
+.all-browsers { 
+margin: 0; 
+padding: 5px; 
+background-color: lightgray; 
+} 
+.all-browsers > h1, .browser { 
+margin: 10px; 
+padding: 5px; 
+} 
+.browser { 
+background: white; 
+} 
+.browser > h2, p { 
+  margin: 4px; 
+  font-size: 90%; 
+} 
+</style> 
+</head> 
+<body> 
+<h1 article class="all-browsers">
+  <h1>Artikel Tentang Nabi</h1>
+  <article class="browser">
+    <h2>Nabi Muhammad SAW</h2>
+    <p>Muhammad bin Abdullah (Arab/Jawi: مُحَمَّدُ بْنُ عَبْدِ اللهِ; disebut [muhammad] 
+(Speaker Icon.svg dengar)) (570 M-8 Jun 632 M)[1] merupakan nabi dan rasul 
+yang dipemat Islam.[2] Lebih dikenali sebagai Muhammad (Arab/Jawi: محمّد) atau 
+Nabi Muhammad (Arab/Jawi: نبي محمّد), baginda juga adalah pemimpin yang menyatukan 
+Semenanjung Arab kepada satu tatanegara di bawah pemerintahan Islam.[3] Muhammad 
+dianggap oleh umat Islam sebagai pemulih keimanan monoteistik ajaran nabi-nabi 
+terdahulu yang dibawa oleh Nabi Adam, Nuh, Ibrahim, Musa, Isa dan nabi-nabi yang 
+lain.[4][5][6][7] Sumber:https://ms.wikipedia.org/wiki/Nabi_Muhammad_SAW</p> 
+  </article>
+  <article class="browser">
+    <h2>Nabi Ibrahim a.s.</h2>
+    <p>Nabi Ibrahim a.s. (Arab dan Jawi: إبراهيم عليه السلام) merupakan nabi dan rasul 
+yang sangat penting dalam agama Islam, dan juga agama lain seperti Nasrani dan 
+Yahudi. Baginda telah diberi gelaran Khalil Ullah iaitu "Sahabat Allah". Selain 
+itu beliau bersama anaknya Nabi Ismail a.s. terkenal sebagai pengasas Kaabah. 
+Baginda juga merupakan salah seorang daripada lima orang nabi Ulul Azmi..</p>
+  </article>  
+  <article class="browser">
+    <h2>Nabi Isa a.s.</h2>
+    <p>Isa (عيسى) merupakan seorang nabi yang penting dalam agama Islam. Dalam 
+Kitab Suci Al Qur'an, ia digelar Isa ibni Maryam atau Isa al-Masih. Kata ini 
+diperkirakan berasal dari bahasa Aram, Eesho atau Eesaa/ didalam teks asli yang 
+dibaca E( Ye ) dan menghasilkan pelbagai perubahan bahasa/loghat sehingga sering 
+disebut sebagai Yesus di Indonesia dan Jesus di peringkat antarabangsa. Jesus 
+Christ atau Jesus Dari Nazareth ialah nama yang umumnya diguna pakai oleh 
+penganut Kristian untuk menyebutnya, sedangkan orang Arab Kristian pula 
+menyebutnya dengan Yasu' al-Masih (يسوع المسيح)..</p>
+  </article> 
+
+</article>
+
+</body>
+</html>
