@@ -21,7 +21,7 @@ background: white;
 </style> 
 </head> 
 <body> 
-<h1 article class="all-browsers">
+<article class="all-browsers">
   <h1>Artikel Tentang Nabi</h1>
   <article class="browser">
     <h2>Nabi Muhammad SAW</h2>
